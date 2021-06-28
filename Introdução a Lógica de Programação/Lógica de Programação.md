@@ -42,7 +42,7 @@ Pseudocódigo é uma forma genérica de escrever um algoritmo, utilizando uma li
 
 **Alguns exemplos de usos das figuras de um fluxograma**
 
-![image-20210628105839678](C:\Users\Thiago\Documents\GitHub\Bootcamp_Santander_FullStack\Introdução a Lógica de Programação\image-20210628105839678.png)
+![image-20210628105839678](image-20210628105839678.png)
 
 ### Variáveis:
 
@@ -67,13 +67,13 @@ X = 3,14 ( Esse é o valor de Pi que pode ser utilizado no programa para calcula
 
 São expressões que utilizam operadores aritméticos e funções aritméticas envolvendo constantes e variáveis.
 
-![image-20210628112759840](C:\Users\Thiago\Documents\GitHub\Bootcamp_Santander_FullStack\Introdução a Lógica de Programação\image-20210628112759840.png)
+![image-20210628112759840](image-20210628112759840.png)
 
 ### Operadores relacionais:
 
 São expressões compostas por outras expressões ou variáveis numéricas com operadores relacionais que retornam valores lógicos (verdadeiro ou falso)
 
-![image-20210628113532583](C:\Users\Thiago\Documents\GitHub\Bootcamp_Santander_FullStack\Introdução a Lógica de Programação\image-20210628113532583.png)
+![image-20210628113532583](image-20210628113532583.png)
 
 ### Concatenação:
 
@@ -96,6 +96,28 @@ nome_completo= nome + sobrenome
 nome_completo= "Thiago Silva"
 
 
+
+### Estruturas de Repetição
+
+É uma estrutura que permite executar mais de uma vez o mesmo comando ou conjunto de comandos, de acordo com uma condição ou com um contador.
+
+![image-20210628190530579](image-20210628190530579.png)
+
+### Linguagem de programação:
+
+É uma linguagem que especifica um conjunto de instruções e regras usadas para gerar softwares, que vão poder ser utilizados em qualquer equipamento que permita sua execução. Basicamente sua função é servir  de meio de comunicação entre computadores e humanos.
+
+As linguagens de programação podem ser de baixo nível, onde são necessárias algumas informações sobre a arquitetura da maquina para poder programar e executar o software e as de alto nível, onde a sintaxe é mais parecida com a linguagem que utilizamos no dia a dia.
+
+Além disso elas podem ser compiladas ou interpretadas.
+
+**Compiladas**
+
+ O código fonte é executado diretamente pelo sistema operacional ou pelo processador, após passar por um processo conhecido com compilação
+
+**Interpretadas**
+
+O código fonte é executado por um programa de computador chamado interpretador, que em seguida é executado pelo sistema operacional ou processador.
 
 
 
